@@ -3,7 +3,7 @@ intentos = 0
 saldo = 0
 logueado = False
 
-print("Hola Saulo, Bienvnido a tu Cajero automatico digital.")
+print("Hola Marcos, Bienvnido a tu Cajero automatico digital.")
 
 while True: 
     if not logueado:
@@ -62,5 +62,6 @@ while True:
 
 
     
+
 
     
