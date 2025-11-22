@@ -2,8 +2,8 @@ Maximointentos = 3
 intentos = 0
 Token = False
 Estudiantes = {
-    "Saulo": False,
-    "Jeyson": False,
+    "Juan": False,
+    "Marcos": False,
     "María": False,
     "Luis": False,
     "Camila": False,
@@ -89,4 +89,5 @@ while True:
             exit()
         
         else:
+
             print("Opcion no valida")
