@@ -10,7 +10,7 @@ Token = False
 
 # aqui creo un pequeño diccionario con los nombres de los estudiantes, su matricula y carrera
 Estudiantes = {
-    "2025-7777": {"Nombre": "Pedro, "Carrera": "Seguridad Informatica"},
+    "2025-7777": {"Nombre": "Pedro", "Carrera": "Seguridad Informatica"},
     "2025-6124": {"Nombre": "Amanda", "Carrera": "Software"},
     "2025-8741": {"Nombre": "María", "Carrera": "Mecatronica"},
     "2025-4398": {"Nombre": "Luis", "Carrera": "Inteligencia Artificial"},
@@ -181,4 +181,5 @@ while True:
     else:
         print("Opcion invalida")
         break
+
 
